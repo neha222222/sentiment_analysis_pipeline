@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),Precision (Weighted),Recall (Weighted),F1-Score (Weighted)
+VADER,0.5723,0.4828,0.4789,0.4574,0.6638,0.5723,0.5870
+TextBlob,0.4657,0.5053,0.4797,0.4320,0.6743,0.4657,0.5225
+Logistic Regression + TF-IDF,0.7131,0.6066,0.6176,0.6005,0.7733,0.7131,0.7381
+DistilBERT,0.7990,0.5304,0.5757,0.5519,0.7279,0.7990,0.7615
